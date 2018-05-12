@@ -1,0 +1,33 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXVIII-Sept.-1910The-Terminal-St__17302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cresson, Benjamin Franklin
+    birthdate: 1873
+    deathdate: 1923
+    gutenberg_agent_id: '7289'
+    url: http://www.gutenberg.org/2009/agents/7289
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stations -- Design and construction'
+- !lcc 'TA'
+- !lcsh 'Civil engineering -- Periodicals'
+title: 'Transactions of the American Society of Civil Engineers, vol. LXVIII, Sept.
+  1910
+
+  The New York Tunnel Extension of the Pennsylvania Railroad
+
+  The Terminal Station - West'
+url: http://www.gutenberg.org/ebooks/17302
